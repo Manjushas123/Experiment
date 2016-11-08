@@ -1,5 +1,4 @@
 <?php
-
 $config = require 'config.php';
 require 'connection.php';
 require 'querybuilder.php';
